@@ -35,4 +35,13 @@
     <servlet-name>Order</servlet-name>
     <url-pattern>/order</url-pattern>
   </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>Contact</servlet-name>
+    <servlet-class>com.finalexam.servlet.Contact</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Contact</servlet-name>
+    <url-pattern>/contact</url-pattern>
+  </servlet-mapping>
 </web-app>
