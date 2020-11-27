@@ -45,8 +45,8 @@
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li class="book-a-table text-center"><a href="#book-a-table">Register</a></li>
-          <li class="book-a-table text-center"><a href="#book-a-table">Login</a></li>
+          <li class="book-a-table text-center"><a href="register.jsp">Register</a></li>
+          <li class="book-a-table text-center"><a href="#login.jsp">Login</a></li>
         </ul>
       </nav><!-- .nav-menu -->
 
