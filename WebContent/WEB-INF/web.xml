@@ -44,4 +44,13 @@
     <servlet-name>Contact</servlet-name>
     <url-pattern>/contact</url-pattern>
   </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>Register</servlet-name>
+    <servlet-class>com.finalexam.servlet.Register</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Register</servlet-name>
+    <url-pattern>/register</url-pattern>
+  </servlet-mapping>
 </web-app>
