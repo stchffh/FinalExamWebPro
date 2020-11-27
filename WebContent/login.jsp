@@ -16,7 +16,6 @@
   <link href="vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="vendor/animate.css/animate.min.css" rel="stylesheet">
   <link href="vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="vendor/venobox/venobox.css" rel="stylesheet">
   <link href="vendor/aos/aos.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
@@ -44,12 +43,12 @@
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
-      {{-- <nav class="nav-menu d-none d-lg-block">
+      <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li class="book-a-table text-center"><a href="#book-a-table">Register</a></li>
           <li class="book-a-table text-center"><a href="#book-a-table">Login</a></li>
         </ul>
-      </nav><!-- .nav-menu --> --}}
+      </nav><!-- .nav-menu -->
 
     </div>
   </header><!-- End Header -->
@@ -62,7 +61,7 @@
             <div class="card-header">
               <h3 class="text-center">Form Login</h3>
           </div>
-          <form action="{{ route('login') }}" method="post">
+          <form action="" method="post">
           
           <div class="card-body">
     
