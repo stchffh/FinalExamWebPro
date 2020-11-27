@@ -85,7 +85,7 @@
             </div>
             <div class="card-footer">
                 <button type="submit" class="btn btn-outline-light btn-block">Register</button>
-                <p class="text-center">Already have account? <a href="{{ route('login') }}" style="color: black">Login</a> now!</p>
+                <p class="text-center">Already have account? <a href="login.jsp" style="color: black">Login</a> now!</p>
             </div>
             </form>
           </div>

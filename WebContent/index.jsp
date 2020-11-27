@@ -49,8 +49,8 @@
           <li><a href="#why-us">Why Us?</a></li>
           <li><a href="#menu">Menu</a></li>
           <li><a href="#testimonials">Testimonials</a></li>
-          <li><a href="#contact">Contact</a></li>
-          <li class="book-a-table text-center"><a href="#order-now">Order Now</a></li>
+          <li><a href="contact.jsp">Contact</a></li>
+          <li class="book-a-table text-center"><a href="order.jsp">Order Now</a></li>
         </ul>
       </nav><!-- .nav-menu -->
 
@@ -67,7 +67,7 @@
 
           <div class="btns">
             <a href="#menu" class="btn-menu animated fadeInUp scrollto">Our Menu</a>
-            <a href="#" class="btn-book animated fadeInUp scrollto">Order Now</a>
+            <a href="order.jsp" class="btn-book animated fadeInUp scrollto">Order Now</a>
           </div>
         </div>
       </div>

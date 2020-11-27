@@ -1987,15 +1987,15 @@ label {
 
 button.btn {
     font-size: 0.9rem;
-    background-color: #66cdaa
+    background-color: #0c0b09
 }
 
 button.btn:hover {
-    background-color: #5cb99a
+    background-color: #d3af71
 }
 
 .price {
-    color: #5cb99a;
+    color: #d3af71;
     font-weight: 700
 }
 
