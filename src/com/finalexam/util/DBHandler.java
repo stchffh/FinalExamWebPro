@@ -16,9 +16,9 @@ import java.sql.Statement;
  * 
  */
 public class DBHandler {
-	private String url = ;
-	private String username = "";
-	private String password = "";
+	private String url = "jdbc:mysql://remotemysql.com:3306/u8zXTKSnKV";
+	private String username = "u8zXTKSnKV";
+	private String password = "sTz7dTEEPw";
 	private Connection connection;
 
 	public DBHandler() throws SQLException, ClassNotFoundException {
